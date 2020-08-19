@@ -1,1 +1,2 @@
-# Python-Basics
+## Data Science & Machine Learning basics
+** Jupyter notebooks**
